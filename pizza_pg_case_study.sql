@@ -1,5 +1,5 @@
 -- SCHEMA: pizza_pg_case_study
-
+-- LINK : https://8weeksqlchallenge.com/case-study-2/
 -- DROP SCHEMA IF EXISTS pizza_pg_case_study;
 
 CREATE SCHEMA IF NOT EXISTS pizza_pg_case_study
