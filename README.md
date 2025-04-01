@@ -1,4 +1,4 @@
-​The Pizza Place Sales Analysis project is a comprehensive SQL-based case study that delves into the sales performance of a fictional pizza restaurant. 
+​The Pizza Place Sales Analysis project is a comprehensive SQL-based case study that gives insight into the sales performance of a fictional pizza restaurant. 
 By analyzing various facets of the business, this project aims to uncover insights that can drive strategic decisions.​
 
 Key Features:
